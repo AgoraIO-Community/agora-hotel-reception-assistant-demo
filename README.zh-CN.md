@@ -2,6 +2,8 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md)
 
+本文仅翻译文档；应用界面和语音对话仍使用英语。请使用下方英文示例试说，中文仅供理解。
+
 基于 Agora 和 Next.js 的酒店前台语音 AI 演示。了解一家虚构的波士顿酒店、比较房型，并体验模拟预订对话。
 
 **[在 Agora Recipes 探索更多语音 AI 演示 →](https://recipes.agora.io/)**
@@ -125,7 +127,7 @@ Next.js 签发浏览器 token，并在启动 Agora Agent 时提供场景指令�
 
 ### 如何体验预订？
 
-说明日期、人数和房型偏好。例如：明天起住两晚，两名成人和一名九岁儿童。确认前请助手复述日期和总额。这只是通话内的模拟，不会产生真实预订。
+说明日期、人数和房型偏好。例如可以说：“I need a room for two adults and a nine-year-old child for two nights starting tomorrow.”（意为“明天起住两晚，两名成人和一名九岁儿童。”）确认前请助手复述日期和总额。这只是通话内的模拟，不会产生真实预订。
 
 ### 为什么日期或房型无法被接受？
 
