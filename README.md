@@ -1,5 +1,7 @@
 # Agora Hotel Reception Assistant Demo
 
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md)
+
 A hotel reception voice AI demo built with Agora and Next.js. Explore a fictional Boston hotel, compare rooms, and walk through a simulated booking conversation.
 
 **[Explore more voice AI demos on Agora Recipes →](https://recipes.agora.io/)**
@@ -76,9 +78,9 @@ Open [http://localhost:3000](http://localhost:3000), choose **Talk to hotel rece
 
 ### Deploy to Vercel
 
-[![Import into Vercel](https://vercel.com/button)](https://vercel.com/new)
+[![Import into Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAgoraIO-Community%2Fagora-hotel-reception-assistant-demo&env=NEXT_PUBLIC_AGORA_APP_ID%2CNEXT_AGORA_APP_CERTIFICATE&envDescription=Agora%20App%20ID%20and%20App%20Certificate%20from%20Agora%20Console.%20Enable%20Conversational%20AI%20for%20the%20project.&envLink=https%3A%2F%2Fdocs.agora.io%2Fen%2Fintroduction%2Fconsole-setup&project-name=agora-hotel-reception-assistant-demo&repository-name=agora-hotel-reception-assistant-demo)
 
-1. Import this repository into Vercel.
+1. Click the button to clone this repository into your Git account and import it into Vercel.
 2. Select **Next.js** and Node.js 24.
 3. Add `NEXT_PUBLIC_AGORA_APP_ID` and `NEXT_AGORA_APP_CERTIFICATE` under **Environment Variables**, then deploy.
 
