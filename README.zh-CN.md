@@ -6,6 +6,8 @@
 
 基于 Agora 和 Next.js 的酒店前台语音 AI 演示。了解一家虚构的波士顿酒店、比较房型，并体验模拟预订对话。
 
+**[在线体验 →](https://agora-hotel-reception-assistant-dem.vercel.app)**
+
 **[在 Agora Recipes 探索更多语音 AI 演示 →](https://recipes.agora.io/)**
 
 [![Agora](https://img.shields.io/badge/Voice_AI-Agora-099DFD)](https://www.agora.io/en/products/conversational-ai-engine/)
@@ -79,6 +81,8 @@ pnpm run dev
 ```
 
 打开 [http://localhost:3000](http://localhost:3000)，选择 **Talk to hotel reception** 并允许使用麦克风。需要时可请助手总结对话，点击挂断按钮（**End session**）结束。
+
+每次会话满 10 分钟自动结束，点击 Start again 可重新开始。
 
 <a id="deployment"></a>
 
