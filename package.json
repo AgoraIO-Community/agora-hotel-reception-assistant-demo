@@ -1,6 +1,6 @@
 {
   "name": "agora-hotel-reception-assistant-demo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Answer hotel questions and explain room availability for a requested stay.",
   "private": true,
   "engines": {
